@@ -1,12 +1,23 @@
 ########50 characters############################
 # FIX MODIFY ADD REMOVE BUGFIXE WIP (work in progress) DOCS (for readme) STYLE (fmt)
-Subject
+# Uncomment your subject
+#🩹 FIX :
+#🔨 MODIFY :
+#🌱 ADD :
+#🔥 REMVOE :
+#🐛 BUGFIXE : 
+#🚧 WIP :
+#📝 DOCS :
+#🎨 STYLE :
+
+
 ########72 characters##################################################
-Problem
+🚨 Problem
+
 # Problem, Task, Reason for Commit
-Solution
+💡 Solution
 # Solution or List of Changes
 # *
 # * 
-Note
+📝 Note
 # Special instructions, testing steps, rake, etc
