@@ -10,7 +10,7 @@ cd Git-Configuration/
 
 
 ```bash
-git config --global commit.template ~/.gitmessage
+git config --global commit.template ./.gitmessage
 ```
 
 ## Configure the default Git editor to use Vim
@@ -18,3 +18,4 @@ git config --global commit.template ~/.gitmessage
  git config --global core.editor "vim"
  export GIT_EDITOR=vim
  ```
+ 
